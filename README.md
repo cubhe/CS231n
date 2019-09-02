@@ -1,5 +1,6 @@
-* 9.3  
-* 9.2  学会pytorch基本语法 看了pytorch handbook
+* 9.2  用两层CNN对MNIDT分类 (准确率99%.....)
+*      用pytorch写logistic_regression    
+*      学会pytorch基本语法 看了pytorch handbook
 * 9.1  安装pytorch 配置环境
 * 8.30 手写两层神经网络
 * 8.27 完成了softmax
