@@ -1,3 +1,12 @@
+* 9.3  
+* 9.2  学会pytorch基本语法 看了pytorch handbook
+* 9.1  安装pytorch 配置环境
+* 8.30 手写两层神经网络
+* 8.27 完成了softmax
+* 8.26 完成了SVM(线性)
+* 8.25 完成了KNN
+
+
 # CS231n
 * this is the homework for Stanford CS231n
 
@@ -9,3 +18,4 @@
 * 祝你coding愉快~
 
 * #借鉴了GitHub和知乎上一些前辈的代码，如果有侵权请及时联系我删除~
+
