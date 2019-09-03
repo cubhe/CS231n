@@ -1,3 +1,4 @@
+* 9.3  用使用自己搭建的CNN对cifar10分类（accuracy 62%）
 * 9.2  用两层CNN对MNIDT分类 (准确率99%.....)
 * .....用pytorch写logistic_regression    
 * .....学会pytorch基本语法 看了pytorch handbook
