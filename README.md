@@ -1,8 +1,9 @@
-* 9.4  用使用类似于VGG的网络对cifar10分类（accuracy 85%）
-* 9.3  用使用自己搭建的CNN对cifar10分类（accuracy 62%）
-* 9.2  用两层CNN对MNIDT分类 (准确率99%.....)
-* .....用pytorch写logistic_regression    
-* .....学会pytorch基本语法 看了pytorch handbook
+* 9.5  使用RestNet网络对cifar10分类（accuracy 82%）
+* 9.4  使用类似于VGG的网络对cifar10分类（accuracy 85%）
+* 9.3  使用自己搭建的CNN对cifar10分类（accuracy 62%）
+* 9.2  使用两层CNN对MNIDT分类 (准确率99%.....)
+* .......用pytorch写logistic_regression    
+* .......学会pytorch基本语法 看了pytorch handbook
 * 9.1  安装pytorch 配置环境
 * 8.30 手写两层神经网络
 * 8.27 完成了softmax
