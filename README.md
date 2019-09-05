@@ -5,11 +5,11 @@
 * 9.2  使用两层CNN对MNIDT分类 (准确率99%.....)
 * .......用pytorch写logistic_regression    
 * .......学会pytorch基本语法 看了pytorch handbook
-* 9.1  安装pytorch 配置环境
+* 9.1  安装pytorch 配置环境 //终于可以使用GPU加速了:)
 * 8.30 手写两层神经网络
-* 8.27 完成了softmax
-* 8.26 完成了SVM(线性)
-* 8.25 完成了KNN
+* 8.27 完成了softmax(numpy)
+* 8.26 完成了SVM(线性)(numpy)
+* 8.25 完成了KNN(numpy)
 
 
 # CS231n
