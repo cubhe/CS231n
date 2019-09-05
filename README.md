@@ -1,7 +1,7 @@
 # 学习日记
 * 9.5  使用RestNet网络对cifar10分类（accuracy 82%）
 * 9.4  使用类似于VGG的网络对cifar10分类（accuracy 85%）
-* 9.3  使用自己搭建的CNN对cifar10分类（accuracy 62%）
+* 9.3  使用自己搭建的CNN对cifar10分类（accuracy 62%）(有超级详细的注释)
 * 9.2  使用两层CNN对MNIDT分类 (准确率99%.....)
 * .......用pytorch写logistic_regression    
 * .......学会pytorch基本语法 看了pytorch handbook
