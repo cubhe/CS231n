@@ -1,3 +1,4 @@
+# 学习日记
 * 9.5  使用RestNet网络对cifar10分类（accuracy 82%）
 * 9.4  使用类似于VGG的网络对cifar10分类（accuracy 85%）
 * 9.3  使用自己搭建的CNN对cifar10分类（accuracy 62%）
